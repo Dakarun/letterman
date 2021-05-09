@@ -1,4 +1,4 @@
 venv/
 .idea/
 *.db
-__pychache__/
+__pycache__/
