@@ -6,7 +6,10 @@ install_requires = [
     'boto3==1.17.50',
 ]
 
-test_requires = []
+test_requires = [
+    'pytest==6.2.4'
+]
+
 setup(
     name='letterman',
     version=version,
